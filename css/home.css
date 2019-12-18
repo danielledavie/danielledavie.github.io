@@ -6,6 +6,10 @@ body {
   padding-bottom: 10%;
   padding-left: 10%;
 }
+
+body div {
+  background-color: #F6E4CC;
+}
   
   h1 {
     color: #397249;
