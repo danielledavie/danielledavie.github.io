@@ -41,6 +41,14 @@ div.blurb {
   background-color: #F6E4CC;
 }
 
+div.sample {
+  background-color: #F6E4CC;
+}
+
+div.intro {
+  background-color: #C7E1BA;
+}
+
 h1 {
     color: #397249;
     text-align: center;
