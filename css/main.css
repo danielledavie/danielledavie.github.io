@@ -92,7 +92,7 @@ div.dropdown:hover div.dropdown-content {
 div.blurb {
  /* background-color: #d5ddde; */
   text-align: center;
-  font-size: 50vh;
+  font-size: 10vh;
   height: 50%;
   position: fixed;
   top: 50%;
