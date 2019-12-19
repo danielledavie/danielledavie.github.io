@@ -19,13 +19,13 @@ div.topnav {
 div.nav {
   float: left;
   border-style: solid;
-  border-color: #9CB770;
+  border-color: #F3D5BD;
   border-width: 5px;
 }
 
 div.nav a {
   display: block;
-  color: #397249;
+  color: #F6E4CC;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
