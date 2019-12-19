@@ -40,6 +40,11 @@ div.topnav a:hover {
 div.blurb {
   background-color: #d5ddde;
   text-align: center;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
 }
 
 div.sample {
