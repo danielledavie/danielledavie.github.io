@@ -39,6 +39,7 @@ div.topnav a:hover {
 
 div.blurb {
   background-color: #F6E4CC;
+  text-align: center;
 }
 
 div.sample {
@@ -47,19 +48,4 @@ div.sample {
 
 div.intro {
   background-color: #C7E1BA;
-}
-
-h1 {
-    color: #397249;
-    text-align: center;
-}
-  
-h2 {
-    color: #628B61;
-    text-align: center;
-}
-  
-p {
-    color: #9CB770;
-    text-align: center;
 }
