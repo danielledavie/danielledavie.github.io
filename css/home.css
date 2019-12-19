@@ -7,6 +7,26 @@ body {
   padding-left: 10%;
 }
 
+.topnav {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.topnav a {
+  display: block;
+  color: #397249;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color ton hover */
+.topnav a:hover {
+  background-color: #F6E4CC;
+}
+
 body div {
   background-color: #F6E4CC;
 }
