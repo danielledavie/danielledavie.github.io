@@ -25,14 +25,14 @@ div.nav {
 
 div.nav a {
   display: block;
-  color: #F6E4CC;
+  color: #397249;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 div.topnav a.active {
- background-color: #F3D5BD;
+ background-color: #F6E4CC;
 }
 
 /* Change the link color to hover */
