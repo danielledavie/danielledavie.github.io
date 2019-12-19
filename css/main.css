@@ -93,6 +93,7 @@ div.blurb {
  /* background-color: #d5ddde; */
   text-align: center;
   font-size: 10vh;
+  line-height: 10vh;
   height: 50%;
   position: fixed;
   top: 50%;
