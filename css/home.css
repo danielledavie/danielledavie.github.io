@@ -8,20 +8,28 @@ body {
 }
 
 div.topnav {
+  list-style-type: none;
   font-family: Arial, Helvetica, sans-serif;
   background-color: #F3D5BD;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  list-style-type: none;
 }
 
-div.topnav a {
+div.nav {
+  float: left;
+}
+
+div.nav a {
   display: block;
   color: #397249;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+}
+
+div.topnav a.active {
+ background-color: #C7E1BA;
 }
 
 /* Change the link color to hover */
@@ -32,8 +40,8 @@ div.topnav a:hover {
 div.blurb {
   background-color: #F6E4CC;
 }
-  
-  h1 {
+
+h1 {
     color: #397249;
     text-align: center;
 }
